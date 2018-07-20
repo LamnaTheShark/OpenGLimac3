@@ -1,4 +1,4 @@
-# Quentin Bommart - OpenGL Project 2016
+- OpenGL Project 2016
 
 Project based on reflexions.
 
